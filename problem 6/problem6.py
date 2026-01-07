@@ -1,1 +1,3 @@
-n=input("Enter ")
+n=input("Enter the password:")
+Isupper(n)
+
